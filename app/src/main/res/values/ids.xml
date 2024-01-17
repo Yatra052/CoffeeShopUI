@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="checkoutBackBtn" type="id">checkoutBackBtn</item>
+    <item name="back" type="id">bck</item>
+    <item name="AppButton" type="id">a</item>
+</resources>
